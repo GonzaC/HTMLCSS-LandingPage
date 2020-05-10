@@ -127,7 +127,7 @@ section {display: flex;}
 }
 .banner-text > div:last-child {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 400;
     margin-top: 5px;
 }
 

@@ -186,6 +186,7 @@ section {display: flex;}
     font-weight: 400;
     font-style: italic;
     color: #637f94;
+    line-height: 1;
 }
 
 .full-banner-sidebar h4:after {
@@ -194,6 +195,7 @@ section {display: flex;}
     height: 1px;
     margin: 20px auto;
     display: block;
+    background-color: #faa541;
 }
 .full-banner-sidebar > div:nth-of-type(1){
     font-size: 60px;
